@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  margin-left: 15px;
+}
+
+.btn{
+  height: 25px;
+  width: 100px;
+  margin-top: 20px;
+  margin-left: 50px;
+  border-radius: 5px;
+  background-color: bisque;
+  border: none
+
+}
+.box-input {
+  padding: 0 5px;
+  line-height: 20px;
+}
+.btn:hover{
+  opacity: 0.8;
+}
+.op{
+  margin-bottom: 10px;
+  width: 50px;
+}
+
+.tl{
+  font-weight: 500;
+  float: left;
+  width: 100px;
+  margin-left: 10px;
+}
+.box{
+  margin-right: 50px;
+  margin-bottom: 20px;
+  
+}
+
+.all-box{
+    margin: auto;
+}
+.age{
+  width: 40px;
+}
+
+table{
+  width: 50%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th,td{
+  border: 1px solid #ccc;
+  text-align: center;width: 25%;
+}
+th{
+  width: 33.33%;
+  height: 50%;
+  text-align: center;
+}
+.fix{
+
+  display: flex;
+  padding:0 5px;
+  border: none;
+}
+.btn-op{
+  background-color: bisque;
+  padding: 2px 2px;
+  border: none;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+.btn-op:hover{
+  opacity: 0.9;
+}
+
+.formSub {
+  width: 450px;
+  
+}
